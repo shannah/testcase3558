@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resource majorVersion="1" minorVersion="10" useXmlUI="false">
+    <theme name="Theme">
+        <val key="@alwaysTensileBool" value="false" />
+        <val key="@formTransitionOut" value="empty" />
+        <val key="@globalToobarBool" value="true" />
+        <val key="@includeNativeBool" value="false" />
+        <val key="@tabsFillRowsBool" value="true" />
+        <val key="@transitionSpeedInt" value="50" />
+        <val key="Btn.align" value="4" />
+        <val key="Btn.bgColor" value="ff3333" />
+        <val key="Btn.dis#derive" value="Btn" />
+        <val key="Btn.fgColor" value="000000" />
+        <val key="Btn.marUnit" value="2,2,2,2" />
+        <val key="Btn.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="Btn.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="Btn.press#derive" value="Btn" />
+        <val key="Btn.sel#derive" value="Btn" />
+        <val key="Btn.transparency" value="0" />
+        <val key="Button.align" value="4" />
+        <val key="Button.dis#derive" value="Button" />
+        <val key="Button.press#derive" value="Button" />
+        <val key="Button.press#fgColor" value="ff3333" />
+        <val key="Button.sel#derive" value="Button" />
+        <val key="MyForm.bgColor" value="ffffff" />
+        <val key="MyForm.fgColor" value="000000" />
+        <val key="MyForm.transparency" value="255" />
+        <val key="cntBgnToolBar.align" value="1" />
+        <val key="cntBgnToolBar.bgColor" value="000000" />
+        <val key="cntBgnToolBar.fgColor" value="000000" />
+        <val key="cntBgnToolBar.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="cntBgnToolBar.padUnit" value="2,2,2,2" />
+        <val key="cntBgnToolBar.padding" value="2.0,2.0,2.0,2.0" />
+        <val key="cntBgnToolBar.transparency" value="0" />
+        <val key="ecs_btnSos.align" value="4" />
+        <val key="ecs_btnSos.bgColor" value="0" />
+        <border key="ecs_btnSos.border" type="round" roundBorderColor="10944512" opacity="255" strokeColor="16777215" strokeOpacity="150" strokeThickness="0.5" strokeMM="true" shadowSpread="0" shadowOpacity="0" shadowX="0.0" shadowY="0.0" shadowBlur="1.0" shadowMM="false" rectangle="false" />
+        <val key="ecs_btnSos.dis#derive" value="ecs_btnSos" />
+        <val key="ecs_btnSos.fgColor" value="ffffff" />
+        <font key="ecs_btnSos.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="15.0" />
+        <val key="ecs_btnSos.marUnit" value="1,0,0,0" />
+        <val key="ecs_btnSos.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="ecs_btnSos.padUnit" value="2,2,2,2" />
+        <val key="ecs_btnSos.padding" value="3.0,3.0,3.0,3.0" />
+        <border key="ecs_btnSos.press#border" type="round" roundBorderColor="16711680" opacity="255" strokeColor="16777215" strokeOpacity="255" strokeThickness="0.5" strokeMM="true" shadowSpread="0" shadowOpacity="0" shadowX="0.0" shadowY="0.0" shadowBlur="1.0" shadowMM="false" rectangle="false" />
+        <val key="ecs_btnSos.press#derive" value="ecs_btnSos" />
+        <val key="ecs_btnSos.sel#derive" value="ecs_btnSos" />
+        <val key="ecs_btnSos.transparency" value="0" />
+        <val key="ecs_btnSos2.align" value="4" />
+        <val key="ecs_btnSos2.bgColor" value="0" />
+        <border key="ecs_btnSos2.border" type="roundRect" strokeColor="0" strokeOpacity="255" strokeThickness="0.0" strokeMM="false" shadowSpread="10.0" shadowOpacity="0" shadowX="0.5" shadowY="0.5" shadowBlur="10.0" topOnlyMode="false" bottomOnlyMode="false" cornerRadius="2.0" bezierCorners="false" />
+        <val key="ecs_btnSos2.dis#derive" value="ecs_btnSos2" />
+        <val key="ecs_btnSos2.fgColor" value="ffffff" />
+        <font key="ecs_btnSos2.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="15.0" />
+        <val key="ecs_btnSos2.marUnit" value="1,0,0,0" />
+        <val key="ecs_btnSos2.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="ecs_btnSos2.padUnit" value="2,2,2,2" />
+        <val key="ecs_btnSos2.padding" value="3.0,3.0,3.0,3.0" />
+        <val key="ecs_btnSos2.press#bgColor" value="666666" />
+        <val key="ecs_btnSos2.press#derive" value="ecs_btnSos2" />
+        <val key="ecs_btnSos2.sel#derive" value="ecs_btnSos2" />
+        <val key="ecs_btnSos2.transparency" value="255" />
+        <val key="hint.align" value="1" />
+        <val key="hint.bgColor" value="000000" />
+        <val key="hint.fgColor" value="9999ff" />
+        <font key="hint.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="5.0" />
+        <val key="hint.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="hint.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="hint.transparency" value="0" />
+        <val key="icon.align" value="1" />
+        <val key="icon.bgColor" value="000000" />
+        <val key="icon.dis#derive" value="icon" />
+        <val key="icon.fgColor" value="9999ff" />
+        <font key="icon.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="5.0" />
+        <val key="icon.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="icon.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="icon.press#derive" value="icon" />
+        <val key="icon.press#fgColor" value="000000" />
+        <val key="icon.sel#derive" value="icon" />
+        <val key="icon.transparency" value="0" />
+        <val key="lb.align" value="4" />
+        <val key="lb.bgColor" value="000000" />
+        <val key="lb.fgColor" value="000000" />
+        <font key="lb.font" type="ttf" face="0" style="0" size="0" name="native:MainLight" family="native:MainLight" sizeSettings="3" actualSize="12.0" />
+        <val key="lb.margin" value="0.0,0.0,0.0,0.0" />
+        <val key="lb.padding" value="0.0,0.0,0.0,0.0" />
+        <val key="lb.transparency" value="0" />
+        <val key="ta.align" value="1" />
+        <val key="ta.bgColor" value="9999ff" />
+        <border key="ta.border" type="underline"  millimeters="false" thickness="1.0" color="10066431" />
+        <val key="ta.dis#derive" value="ta" />
+        <val key="ta.fgColor" value="9999ff" />
+        <font key="ta.font" type="ttf" face="0" style="0" size="0" name="native:MainThin" family="native:MainThin" sizeSettings="3" actualSize="5.0" />
+        <val key="ta.marUnit" value="0,0,2,0" />
+        <val key="ta.margin" value="0.0,1.0,0.0,0.0" />
+        <val key="ta.padUnit" value="2,2,2,2" />
+        <val key="ta.padding" value="0.0,0.0,1.0,2.0" />
+        <val key="ta.press#derive" value="ta" />
+        <val key="ta.sel#derive" value="ta" />
+        <val key="ta.transparency" value="0" />
+    </theme>
+</resource>
